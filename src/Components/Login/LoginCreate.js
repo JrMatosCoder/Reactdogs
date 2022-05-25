@@ -2,7 +2,10 @@ import React from 'react'
 
 const LoginCreate = () => {
   return (
-    <div>Login Criar</div>
+    <section className="animeLeft" >
+      <h1>Cadastre-se</h1>
+      
+    </section>
   )
 }
 
